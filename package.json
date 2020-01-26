@@ -40,10 +40,6 @@
     ]
   },
   "dependencies": {
-    "@types/jest": "^24.9.1",
-    "@types/node": "^13.5.0",
-    "@types/react": "^16.9.19",
-    "@types/react-dom": "^16.9.5",
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.15.1",
     "json-server": "^0.15.1",
@@ -55,10 +51,10 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.2.0",
     "react-test-renderer": "^16.12.0",
-    "redux": "^4.0.4",
-    "typescript": "^3.7.5"
+    "redux": "^4.0.4"
   },
   "devDependencies": {
+    "eslint-watch": "^6.0.1",
     "husky": "^3.1.0",
     "lint-staged": "^9.5.0",
     "redux-devtools-extension": "^2.13.8"
