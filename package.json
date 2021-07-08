@@ -66,6 +66,6 @@
     "eslint-watch": "^6.0.1",
     "husky": "^3.1.0",
     "lint-staged": "^9.5.0",
-    "redux-devtools-extension": "^2.13.8"
+    "redux-devtools-extension": "^2.13.9"
   }
 }
